@@ -1,0 +1,6 @@
+.resultList {
+  height: 300px;
+  background-color: whitesmoke;
+  padding: 25px;
+  overflow-y: auto;
+}
